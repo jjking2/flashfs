@@ -1,0 +1,19 @@
+{
+  "name": "flashfs",
+  "version": "1.0.0",
+  "description": "build flash-based file system from set of binary data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flash",
+    "intel",
+    "hex"
+  ],
+  "author": "jjking2",
+  "license": "PDDL-1.0",
+  "dependencies": {
+    "nrf-intel-hex": "^1.3.0"
+  }
+}
